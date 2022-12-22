@@ -1,0 +1,34 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Cloud Run: Run Locally" type="CloudCodeCloudRunConfigurationType" factoryName="CloudCodeCloudRunDevelopConfigurationFactory" singleton="false" show_console_on_std_err="false" show_console_on_std_out="false" imageBuilder="{&quot;name&quot;:&quot;Buildpacks&quot;,&quot;payload&quot;:{&quot;path&quot;:&quot;go.mod&quot;,&quot;builder&quot;:&quot;gcr.io/buildpacks/builder:v1&quot;}}">
+    <option name="allowRunningInParallel" value="true" />
+    <option name="buildpacksEnv">
+      <map />
+    </option>
+    <option name="cloudSqlConnections">
+      <list />
+    </option>
+    <option name="cpuAllocated" value="NO_LIMIT" />
+    <option name="dockerBuildArgs">
+      <map />
+    </option>
+    <option name="dockerTarget" value="" />
+    <option name="environmentVariables">
+      <map>
+        <entry key="APP_CREDS" value="`ewogICJxdW90YV9wcm9qZWN0IjogInBlZXptZSIsCiAgInR5cGUiOiAic2Vydmlj ZV9hY2NvdW50IiwKICAicHJvamVjdF9pZCI6ICJwZWV6bWUiLAogICJwcml2YXRl X2tleV9pZCI6ICJiNTZlZGJhMTRjMjlmMTVhOTEwZWM5MDc3YzlhMjRmNDI3YTJl N2Q0IiwKICAicHJpdmF0ZV9rZXkiOiAiLS0tLS1CRUdJTiBQUklWQVRFIEtFWS0t LS0tXG5NSUlFdlFJQkFEQU5CZ2txaGtpRzl3MEJBUUVGQUFTQ0JLY3dnZ1NqQWdF QUFvSUJBUURWeVE0VWFBY3ppc0h5XG5ydnhVQlhsaFRTSWtmYXBxb25WelF4RVBa S2RTdERwbWlUU1g1U25sS1g4RlU2c29zcXJ4anc2V1V1RWRIaHBrXG5OYzZLUjdE MENCUlRzRXJYeGl3L3lJR1A4ZWtkbU0rK3A0TjV1cjNPVS9XbHhZeGhaMWpEdHcx Z0F1VFJ2Zi81XG56T0JTbHh1UWVLUE5FK0krQjFNZVY4UXBPU3RYYmdDaHpkOWVw NERsSERpd3gxL1A4R3ZPTGw5NlVzZFlmUUpjXG5ET3VZbnloVVpwZzc3R3praHhM VEs5NU1pbjJZUjFlYTJJVnhXRDlja1pSVTNDQll4VmYyeDVMQU04aU1XdU9CXG56 dm5Pb2Z4cG9IZG9kWXZseVY2UU1iS3RQcnVpVUgrMkFveFNVQ1hRcUdxZ3BkcE52 a1J5TU1VOHdoSEFNRFc2XG4yWHQxUnoweEFnTUJBQUVDZ2dFQUNuMS9vZDVnUUJZ THpLSHIyQjd6K2s0anpKWkNyRkhheTk3d3h0M0JzaUZpXG4zanVCcDZuRE9RU2t3 Q09xRHo0RDBscEZOU040VUFxZjhUdmlBeVMxR1B4ajF2UWNjQTNBTW04Snl5dVdn ZkVlXG5KelQ4RXNIb09oTE04bnllUUtkUlorVWpGR0RWVG85eFcwRERpYzlJREhw RysxNEJrNFB6ZndFcWdIcXNMRWJaXG5iWW9tMjN5V0RpR2ZmL2FzcVdYcFlMRlZP QVdsNUNVQlEycW9Wd1FFYUh6TVU4a3V2LzhOcy9kd1p1NXZwNWJ1XG51bXB2KzVY NlBHK202VDRqTVE3RnhyNTJBWGlTSkVUUzFlNENiMStyMHBYWk1wUDd1QkswNXZk YUZPVU95Smp2XG5VT1J3UHk4Snp6WHlSdGdnQkJaTURiaXJsYnF4SUhuQXRwWnpr OUYzR1FLQmdRRHVhUzU0V25RdGF4cllFa1FpXG5mbVJTYW9OdEMwdlpNYlo1V2dM dGRZbkN5NzBWV0NLTkdRQzJHRitRY3dUUWwyT0VlVFVaZXRiTTFHeVFzZGNJXG55 dFc5dnJYWlJMQllSeVJqS3dLaEdQZEVHdytFUjRnSVZITy9tK1lYWGNlYllDUVRy RVU4bDJZUkttWFh3OWUvXG44Umt2STNtTGVoa1VjdjhZYTBSeXZodWZWUUtCZ1FE bGpzYlVNczBVKzFNWWpqVEFUZnhWeWU1OGo5WGNLZW83XG5pMUFVS1M5UWdSSGp3 Qi9PWDZKb1V2UXZGNTFUUWtDOVZOYWtvSm05em1mb3BUdFNnQ0NML3FlQ2xoRzV1 NmdDXG41a0xDRTk5TUpEM3dGVGw4MHNBRU5uZTBaS3RWVzAvSmpKZDVaT3JGYUlT Mnp0NWFqNFBJalcxeU9PN0orQUoyXG5xd3k4T0JiT2JRS0JnRXZOQzJaZXRCT0F1 ejg1eDRvRUQ1ZVlvQUs2bGJvUHNVbXlFYjQ0SWIzYWsxckc4KzFTXG5wc1EreVp1 ZXhrZ2Y2aGREaGx0OGovRCtGU3FJTUt0dCtqbGkrbVNERDJKeDlDTEhtUVZwYjZ5 cXdlczM1d3RtXG45b3BVWWZySjZWNEFXbGdhN01TUUNuYW91VXE1ek00Tk5RbWt5 TTlNMmM2RHBaRzVBVUZPS25BbEFvR0FZQmNRXG40WGhXWWtjRnRJeXFSaWtlekNa WDN1b3lnaE5GaWlFNXB3YktXRzkrdHBBUWdFbUY2UmQ0UVZJb045Yk8xTEh6XG5t enZpdnhIc2F2VG5UUlIzQzBMUWlaZ1oyVjVVNk1uTC9nTmxnRERYZ0d6U0FJOFRj Mi85VVpTbUozZXVnVmFKXG5mWFloMC9wNU96Q0M0UE9jSFZJZUV5Y0R4YVU4R3NK azlWQ2hNMDBDZ1lFQWxkYy80bEd6UzNoenZLRytFc3hCXG5ISmMydzlsL3NqYVdW MU5VVnk4dXhXUjRZZmFienFKMmxRcUhxbW9ub3FTbG5FenZqTSs1WG1aQzFPZlV3 dlhLXG5tK1VSenV5YXpBVlNHaXRMSWgzV3pZQ1p1YjhuNDhvU09maGcyT1AyWUNt aDlKZnB0YURCa1hQVDZLcmY5b3ROXG5QR05kbkZpWk93aW9LY21SMGI1ZHpkaz1c bi0tLS0tRU5EIFBSSVZBVEUgS0VZLS0tLS1cbiIsCiAgImNsaWVudF9lbWFpbCI6 ICJmaXJlYmFzZS1hZG1pbnNkay1iOGFpeEBwZWV6bWUuaWFtLmdzZXJ2aWNlYWNj b3VudC5jb20iLAogICJjbGllbnRfaWQiOiAiMTA1MjM4Mjk2OTAxNzUzMDQzMjA2 IiwKICAiYXV0aF91cmkiOiAiaHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tL28v b2F1dGgyL2F1dGgiLAogICJ0b2tlbl91cmkiOiAiaHR0cHM6Ly9vYXV0aDIuZ29v Z2xlYXBpcy5jb20vdG9rZW4iLAogICJhdXRoX3Byb3ZpZGVyX3g1MDlfY2VydF91 cmwiOiAiaHR0cHM6Ly93d3cuZ29vZ2xlYXBpcy5jb20vb2F1dGgyL3YxL2NlcnRz IiwKICAiY2xpZW50X3g1MDlfY2VydF91cmwiOiAiaHR0cHM6Ly93d3cuZ29vZ2xl YXBpcy5jb20vcm9ib3QvdjEvbWV0YWRhdGEveDUwOS9maXJlYmFzZS1hZG1pbnNk ay1iOGFpeCU0MHBlZXptZS5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIKIH0=`" />
+      </map>
+    </option>
+    <option name="loadingAvailableBuilders" value="false" />
+    <option name="mappings">
+      <list />
+    </option>
+    <option name="memoryAllocated" value="MIB_512" />
+    <option name="projectPathOnTarget" />
+    <option name="selectedOptions">
+      <list />
+    </option>
+    <option name="serviceAccount" value="" />
+    <option name="serviceName" value="mensa-i-msgr" />
+    <option name="skaffoldWatchMode" value="ON_DEMAND" />
+    <method v="2" />
+  </configuration>
+</component>
